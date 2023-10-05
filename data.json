@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Flag 1 Updated",
+      "price": "6000",
+      "quantity": "29000"
+    },
+    {
+      "id": 2,
+      "title": "The Moon",
+      "price": 100,
+      "quantity": "6000"
+    },
+    {
+      "id": 3,
+      "title": "The Flag 2",
+      "price": 60,
+      "quantity": 29
+    },
+    {
+      "id": 4,
+      "title": "Journey to the center ",
+      "price": 160,
+      "quantity": 629
+    },
+    {
+      "id": 5,
+      "title": "noon book",
+      "price": "444",
+      "quantity": "111"
+    },
+    {
+      "title": "The Prisoner Of Zenda",
+      "price": "200",
+      "quantity": "21",
+      "id": 6
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "price": "520",
+      "quantity": "52",
+      "id": 7
+    }
+  ]
+}
